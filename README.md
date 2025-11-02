@@ -1,1 +1,1 @@
-# GoRest
+# GoREST
